@@ -3,3 +3,5 @@
 <h1><b>Overview</b></h1>
 <p>A dataset containing information about the 100 wealthiest individuals. I compared this dataset with relevant country's GDPs as well as information from wikipedia about the total number of billionaires within that country.</p>
 
+<h2><b>Age distribution</b></h2>
+<img src='https://user-images.githubusercontent.com/47340620/202586313-ae8a3c98-a1c5-4281-b991-f5ab65e932d3.png' alt='age distribution'>
