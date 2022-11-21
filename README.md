@@ -12,4 +12,4 @@ GDPs as well as information from wikipedia about the total number of billionaire
 <h3><b>Looking At Country Data</b></h3>
 <p>One interesting insight that is apparent almost immediately is how closely the total number of billionaires for a country mirrors the distribution of the 100 wealthiest people and what nationalities they identify as. Below is a graph showing the number of billionaires present in a country.</p>
 <img src='https://user-images.githubusercontent.com/47340620/203139328-6ada394b-be9e-4bf0-8ed7-f6ebaac420ea.png' alt='billion country'>
-<p>
+
