@@ -10,6 +10,7 @@ GDPs as well as information from wikipedia about the total number of billionaire
 <img src='https://user-images.githubusercontent.com/47340620/202586313-ae8a3c98-a1c5-4281-b991-f5ab65e932d3.png' alt='age distribution'>
 
 <h3><b>Looking At Country Data</b></h3>
-<p>One interesting insight that is apparent almost immediately is how closely the total number of billionaires for a country mirrors the distribution of the 100 wealthiest people and what nationalities they identify as. Below is a graph showing the number of billionaires present in a country.</p>
+<p>One correlation that presents itself is the correlation of the top 100 wealthiest individuals' country of origin and the total number of billionaires that are present within the country.</p>
 <img src='https://user-images.githubusercontent.com/47340620/203139328-6ada394b-be9e-4bf0-8ed7-f6ebaac420ea.png' alt='billion country'>
-
+<p>There is a clear resembalance in the distribution of data when one looks at the graph above and compares it with the graph below. This could be due to various reasons, including: the economic system in place for said country and the country's GDP.</p>
+<img src='
